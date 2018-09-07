@@ -9,9 +9,6 @@
   "dependencies": {
     "dform": "1.2.0",
     "enzyme": "^2.9.1",
-    "prop-types": "^15.5.10",
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.44.2",
     "react-native-datepicker": "^1.6.0",
     "react-native-material-kit": "^0.4.1",
     "react-native-modal-picker": "^0.0.16"
@@ -23,6 +20,11 @@
     "react-addons-test-utils": "^15.6.0",
     "react-dom": "^15.6.1",
     "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "optionalDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.2"
   },
   "jest": {
     "preset": "react-native"
